@@ -2,7 +2,7 @@
 title: 3作用域和闭包
 date: 2019-02-24
 categories:
-- javasscript
+- javascript
 ---
 
 # js基础-作用域和闭包
