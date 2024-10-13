@@ -103,5 +103,5 @@ theme: pure
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:justsso1/justsso1.github.io.git
+  repository: https://github.com/justsso1/justsso1.github.io
   branch: main
